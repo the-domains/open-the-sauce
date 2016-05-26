@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-26T08:18:37.434Z'
+datePublished: '2016-05-26T08:18:38.796Z'
 sourcePath: _posts/2016-05-26-here-are-all-the-highlights-from-the-google-io-2016-keynote.md
 isBasedOnUrl: 'http://www.engadget.com/2016/05/18/google-io-2016-highlight-reel/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - amazon
 related: []
 author: []
-dateModified: '2016-05-26T08:18:36.538Z'
+dateModified: '2016-05-26T08:18:38.167Z'
 title: Here are all the highlights from the Google I/O 2016 keynote
 app_links:
   - url: 'com.aol.appspinner.engadget://www.engadget.com/2016/05/18/google-io-2016-highlight-reel/'
@@ -38,7 +38,7 @@ publisher:
   domain: www.engadget.com
 description: "Originally it was about two hours; now it's under 12 minutes. With help from our video team, we've distilled, titrated, evaporated and reconstituted Google's annual keynote into something a little more palatable. Learn about Google's VR plans, Android N and Google Home, the company's Amazon Echo competitor."
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
