@@ -1,4 +1,3 @@
-layout_spectrum: 0.8763038048055023
 typography_spectrum: 0.7312977481633425
 color:
   brandStrength: 0.44890320068225265
@@ -11,4 +10,10 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.8763038048055023
+author:
+  name: Deimos
+  email: deimos@openthesauce.com
+  url: openthesauce.com
 name: Open the Sauce
+title: tech tabasco
