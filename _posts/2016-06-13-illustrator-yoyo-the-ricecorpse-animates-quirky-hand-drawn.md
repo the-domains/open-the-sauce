@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-13T11:35:46.216Z'
+datePublished: '2016-06-13T11:35:48.938Z'
 sourcePath: >-
   _posts/2016-06-13-illustrator-yoyo-the-ricecorpse-animates-quirky-hand-drawn.md
 isBasedOnUrl: 'http://www.thisiscolossal.com/2016/06/yoyo-the-ricecorpse-gifs/'
@@ -19,7 +19,7 @@ author:
   - name: Christopher Jobson
     url: 'http://thisiscolossal.com/about'
     avatar: {}
-dateModified: '2016-06-13T11:35:44.840Z'
+dateModified: '2016-06-13T11:35:48.007Z'
 title: Live in a Studio Ghibli movie
 app_links: []
 publisher:
@@ -31,7 +31,7 @@ description: >-
   The beautiful characters above are what I typically imagine good companion AR
   would look and feel like. 
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
