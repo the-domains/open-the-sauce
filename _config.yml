@@ -1,4 +1,4 @@
-typography_spectrum: 0.6601609515491873
+typography_spectrum: 0.9901515583042055
 color:
   brandStrength: 0.7184627978131175
   lightness: 0.01691597211174667
@@ -10,7 +10,7 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-layout_spectrum: 0.36814065207727253
+layout_spectrum: 0.19516023574396968
 author:
   name: Deimos
   email: deimos@openthesauce.com
