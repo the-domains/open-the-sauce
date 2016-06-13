@@ -1,16 +1,16 @@
-typography_spectrum: 0.7312977481633425
+typography_spectrum: 0.6601609515491873
 color:
-  brandStrength: 0.44890320068225265
-  lightness: 0.8378170395735651
-  saturation: 0.9158841122407466
-  rhythmicContrast: 0.5161733475979418
+  brandStrength: 0.7184627978131175
+  lightness: 0.01691597211174667
+  saturation: 0.026166205294430256
+  rhythmicContrast: 0.5534298175480217
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.8763038048055023
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.36814065207727253
 author:
   name: Deimos
   email: deimos@openthesauce.com
