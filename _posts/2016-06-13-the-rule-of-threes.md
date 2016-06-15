@@ -1,11 +1,11 @@
 ---
 description: Three is the magic number
-dateModified: '2016-06-13T03:29:59.406Z'
-datePublished: '2016-06-15T01:53:40.439Z'
+dateModified: '2016-06-15T02:42:56.200Z'
+datePublished: '2016-06-15T02:42:57.546Z'
 title: About this website - The rule of threes
 author: []
 sourcePath: _posts/2016-06-13-the-rule-of-threes.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
