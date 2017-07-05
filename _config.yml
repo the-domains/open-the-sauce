@@ -56,7 +56,6 @@ content:
         Silvestri - "Forrest Gump Suite" (fragment) Software: 3dsmax, Nuke,
         Photoshop, After Effects Tools : Multiscatter plugin, Ghost Town script,
         Poly FX script
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vimeo://app.vimeo.com/videos/100785455'
@@ -93,3 +92,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
+purpose:
+  - type: internal
+    label: Get in touch
+    item: 860e3dc4-b3b9-48bb-aead-61e161e0cf1c
