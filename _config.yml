@@ -28,5 +28,68 @@ navigation:
   - name: WTF is this site?
     id: 8cfc834d-0b42-4224-b644-301bbfbdb0f1
     type: content
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F100785455&url=https%3A%2F%2Fvimeo.com%2F100785455&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F482375085_1280.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=vimeo"
+      width="1000" height="563" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: seccovan
+          url: 'https://vimeo.com/seccovan'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        domain: vimeo.com
+      keywords: []
+      description: >-
+        For licensing/usage please contact: licensing(at)jukinmediadotcom MAKING
+        OF : http://vimeo.com/102935595 More at:
+        http://www.behance.net/gallery/18362139/FUTURAMA-3D-part-1 Music: Alan
+        Silvestri - "Forrest Gump Suite" (fragment) Software: 3dsmax, Nuke,
+        Photoshop, After Effects Tools : Multiscatter plugin, Ghost Town script,
+        Poly FX script
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vimeo://app.vimeo.com/videos/100785455'
+          type: ios
+          namespace: ai
+          app_name: Vimeo
+          app_store_id: '425194759'
+        - should_fallback: 'true'
+          app_name: Vimeo
+          package: com.vimeo.android.videoapp
+          url: 'vimeo://app.vimeo.com/videos/100785455'
+          namespace: ai
+          type: web
+        - url: 'vimeo://app.vimeo.com/videos/100785455'
+          namespace: twitter
+          type: ipad
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/100785455'
+          namespace: twitter
+          type: iphone
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/100785455'
+          namespace: twitter
+          type: googleplay
+          name: Vimeo
+          id: com.vimeo.android.videoapp
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://vimeo.com/100785455'
+      title: Futurama 3d (test shot)
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
