@@ -1,15 +1,18 @@
 ---
 description: Three is the magic number
-dateModified: '2016-06-15T03:23:12.856Z'
-datePublished: '2016-06-15T03:23:13.993Z'
+dateModified: '2017-07-05T03:48:17.945Z'
+datePublished: '2017-07-05T03:48:19.092Z'
 title: About this website - The rule of threes
 author: []
 sourcePath: _posts/2016-06-13-the-rule-of-threes.md
-starred: true
+hasPage: true
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+starred: true
+datePublishedOriginal: '2016-06-15T03:23:13.993Z'
+url: about-this-website-the-rule-of-threes/index.html
+_type: Article
 
 ---
 # About this website - The rule of threes
