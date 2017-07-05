@@ -1,5 +1,5 @@
-layout_spectrum: 0.4114440237272457
-typography_spectrum: 0.672300569900579
+layout_spectrum: 0.7321454794816489
+typography_spectrum: 0.1257054302207941
 color:
   brandColors:
     - '#FFFFFF'
@@ -7,10 +7,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.36766864152957157
-  lightness: 0.7017643670417774
-  saturation: 0.005030565526299547
-  rhythmicContrast: 0.5224104021826187
+  brandStrength: 0.7860928427028737
+  lightness: 0.3596603622544778
+  saturation: 0.8468458490313427
+  rhythmicContrast: 0.5525433134149281
 name: Open the Sauce
 logo: null
 opengraph:
@@ -56,7 +56,6 @@ content:
         Silvestri - "Forrest Gump Suite" (fragment) Software: 3dsmax, Nuke,
         Photoshop, After Effects Tools : Multiscatter plugin, Ghost Town script,
         Poly FX script
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
