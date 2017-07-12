@@ -1,5 +1,9 @@
+name: Open the Sauce
 layout_spectrum: 0.7321454794816489
 typography_spectrum: 0.1257054302207941
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,11 +15,7 @@ color:
   lightness: 0.3596603622544778
   saturation: 0.8468458490313427
   rhythmicContrast: 0.5525433134149281
-name: Open the Sauce
-logo: null
-opengraph:
-  type: ''
-  appId: ''
+purpose: []
 title: technocratic tabasco sauce
 description: Mix 100ml of Open Source with 2 tonnes of WTF happened here
 author:
@@ -38,17 +38,21 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://player.vimeo.com/100785455?loop=1'
+      keywords: []
+      title: Futurama 3d (test shot)
+      publisher:
+        name: Vimeo
+        domain: player.vimeo.com
+        url: 'https://vimeo.com/'
+        favicon: 'https://player.vimeo.com/favicon.ico'
       author:
         - name: seccovan
           url: 'https://vimeo.com/seccovan'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://vimeo.com/'
-        name: Vimeo
-        favicon: 'https://player.vimeo.com/favicon.ico'
-        domain: player.vimeo.com
-      keywords: []
+      starred: false
       description: >-
         For licensing/usage please contact: licensing(at)jukinmediadotcom MAKING
         OF : http://vimeo.com/102935595 More at:
@@ -56,17 +60,7 @@ content:
         Silvestri - "Forrest Gump Suite" (fragment) Software: 3dsmax, Nuke,
         Photoshop, After Effects Tools : Multiscatter plugin, Ghost Town script,
         Poly FX script
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: 'https://player.vimeo.com/100785455?loop=1'
-      title: Futurama 3d (test shot)
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
-purpose:
-  - type: internal
-    label: Get in touch
-    item: 860e3dc4-b3b9-48bb-aead-61e161e0cf1c
